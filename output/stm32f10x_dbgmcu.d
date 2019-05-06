@@ -1,0 +1,13 @@
+..\output\stm32f10x_dbgmcu.o: ..\lib\src\stm32f10x_dbgmcu.c
+..\output\stm32f10x_dbgmcu.o: ..\lib\inc\stm32f10x_dbgmcu.h
+..\output\stm32f10x_dbgmcu.o: ..\cmsis\stm32f10x.h
+..\output\stm32f10x_dbgmcu.o: ..\cmsis\core_cm3.h
+..\output\stm32f10x_dbgmcu.o: C:\Keil\ARM\RV31\Inc\stdint.h
+..\output\stm32f10x_dbgmcu.o: ..\cmsis\system_stm32f10x.h
+..\output\stm32f10x_dbgmcu.o: ..\main\stm32f10x_conf.h
+..\output\stm32f10x_dbgmcu.o: ..\lib\inc\stm32f10x_exti.h
+..\output\stm32f10x_dbgmcu.o: ..\cmsis\stm32f10x.h
+..\output\stm32f10x_dbgmcu.o: ..\lib\inc\stm32f10x_gpio.h
+..\output\stm32f10x_dbgmcu.o: ..\lib\inc\stm32f10x_rcc.h
+..\output\stm32f10x_dbgmcu.o: ..\lib\inc\stm32f10x_usart.h
+..\output\stm32f10x_dbgmcu.o: ..\lib\inc\misc.h

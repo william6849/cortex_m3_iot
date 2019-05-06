@@ -1,0 +1,17 @@
+..\output\main.o: main.c
+..\output\main.o: ..\cmsis\stm32f10x.h
+..\output\main.o: ..\cmsis\core_cm3.h
+..\output\main.o: C:\Keil\ARM\RV31\Inc\stdint.h
+..\output\main.o: ..\cmsis\system_stm32f10x.h
+..\output\main.o: ..\main\stm32f10x_conf.h
+..\output\main.o: ..\lib\inc\stm32f10x_exti.h
+..\output\main.o: ..\cmsis\stm32f10x.h
+..\output\main.o: ..\lib\inc\stm32f10x_gpio.h
+..\output\main.o: ..\lib\inc\stm32f10x_rcc.h
+..\output\main.o: ..\lib\inc\stm32f10x_usart.h
+..\output\main.o: ..\lib\inc\misc.h
+..\output\main.o: usart.h
+..\output\main.o: C:\Keil\ARM\RV31\Inc\stdio.h
+..\output\main.o: C:\Keil\ARM\RV31\Inc\stdlib.h
+..\output\main.o: C:\Keil\ARM\RV31\Inc\string.h
+..\output\main.o: led.h
