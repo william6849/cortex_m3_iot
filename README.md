@@ -7,7 +7,7 @@ hardware Linker : J-link
 port mapping: 
 
 included lib:
-lib/inc/stm32f10x_adc.h
+lib/inc/stm32f10x_adc.h 
 lib/inc/stm32f10x_bkp.h
 lib/inc/stm32f10x_can.h
 lib/inc/stm32f10x_cec.h
