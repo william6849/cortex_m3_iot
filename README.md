@@ -1,6 +1,7 @@
 # cortex_m3_iot  
-based on STM32F103C8T6;  
-  
+
+realtime biomorphic heart beat sensor based on STM32F103C8T6   
+
 Electronic circuit > merged by stm32 > wifi chip > php > display(jquery);  
   
 hardware Linker : J-link  
